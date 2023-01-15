@@ -1,5 +1,6 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
+![Youngann's GitHub stats](https://github-readme-stats.vercel.app/api?username=wya002&show_icons=true&theme=dark)
 <p align="center">
 Language
 </p>
@@ -10,7 +11,7 @@ Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
-RDBMS
+DB
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
