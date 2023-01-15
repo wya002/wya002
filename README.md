@@ -1,8 +1,10 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-![Youngann's GitHub stats](https://github-readme-stats.vercel.app/api?username=wya002&show_icons=true&theme=dark)
 <p align="center">
-Language
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wya002&show_icons=true&theme=tokyonight)
+</p>
+<p align="center">
+Languages
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
