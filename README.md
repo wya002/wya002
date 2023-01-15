@@ -19,7 +19,7 @@ RDBMS
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
-IDE
+Tools
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/VisualStudio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
@@ -27,6 +27,7 @@ IDE
 <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipse&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
 
 </p>
   
