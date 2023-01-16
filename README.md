@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=819ff7&height=300&section=header&text=Youngann%20Woo&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=819ff7&height=200&section=header&text=Youngann%20Woo&fontSize=60&animation=fadeIn" />
 # 📒Summary
 <img src="https://github-readme-stats.vercel.app/api?username=wya002&show_icons=true&theme=tokyonight"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wya002&layout=compact&theme=tokyonight"/></a>
